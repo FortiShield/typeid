@@ -1,6 +1,6 @@
 package main
 
-import "go.jetpack.io/typeid-cli/cli"
+import "github.com/khulnasoft-lab/typeid-cli/cli"
 
 func main() {
 	cli.Main()

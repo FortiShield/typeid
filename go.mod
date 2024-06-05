@@ -1,4 +1,4 @@
-module go.jetpack.io/typeid-cli
+module github.com/khulnasoft-lab/typeid-cli
 
 go 1.21
 
